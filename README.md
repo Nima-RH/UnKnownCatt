@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @UnKnownCatt
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning html , css , lua
-- 📫 How to reach me : My Discord :Nima#8585
+#👋 I'm Nima
 
-<!---
-If You Have Problem in Your Script Dm Me!!!
---->
+👨‍💻I'm a FiveM & UI Developer
+
+🗺️ I live in Tehran, Iran.
+
+❤ Love To Coding :)
+
+📫 How to reach me : My Discord :Nima#8585
+
+#🛠 Skills
+Lua, HTML, CSS
