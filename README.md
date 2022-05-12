@@ -11,4 +11,4 @@
 # 🛠 Skills
 Lua, HTML, CSS
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+<img src ="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
