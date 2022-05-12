@@ -16,3 +16,6 @@
 
 #
 <img src ="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=420 height=270 >
+
+# ✅ ✅
+<samp align="center"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji></samp>
