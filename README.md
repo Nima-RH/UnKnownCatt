@@ -1,6 +1,6 @@
 # 👋 I'm Nima
 
-👨‍💻I'm a FiveM & UI Developer
+👨‍💻I'm a FiveM & UI Developer :)
 
 🗺️ I live in Tehran, Iran.
 
